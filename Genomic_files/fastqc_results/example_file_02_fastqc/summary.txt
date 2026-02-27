@@ -1,0 +1,10 @@
+PASS	Basic Statistics	example_file_02.fastq
+PASS	Per base sequence quality	example_file_02.fastq
+PASS	Per sequence quality scores	example_file_02.fastq
+FAIL	Per base sequence content	example_file_02.fastq
+FAIL	Per sequence GC content	example_file_02.fastq
+WARN	Per base N content	example_file_02.fastq
+WARN	Sequence Length Distribution	example_file_02.fastq
+PASS	Sequence Duplication Levels	example_file_02.fastq
+FAIL	Overrepresented sequences	example_file_02.fastq
+PASS	Adapter Content	example_file_02.fastq
